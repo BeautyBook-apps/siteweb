@@ -22,6 +22,8 @@ npm run dev
 
 Pour la production, renseigner `VITE_SUPABASE_URL` et `VITE_SUPABASE_ANON_KEY` à partir de `.env.example`.
 
+Le dépôt contient aussi le workflow GitHub Pages. Après activation de Pages avec la source « GitHub Actions », le site est disponible sur `https://beautybook-apps.github.io/siteweb/`.
+
 ## Build
 
 ```bash
